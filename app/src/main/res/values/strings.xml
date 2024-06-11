@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">monitoramento</string>
+    <string name="tag_line">Tag</string>
+    <string name="welcome">Bem-vindo!</string>
+    <string name="email">Email</string>
+    <string name="password">Senha</string>
+    <string name="login">LOGIN</string>
+    <string name="forgot_password">Esqueceu a senha?</string>
+    <string name="create_account">Criar conta</string>
+</resources>
